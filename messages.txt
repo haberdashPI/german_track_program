@@ -8,7 +8,7 @@ When the experiment begins, you can take as long as you like to answer the quest
 
 If you need to rest or pause the experiment, you may do so at the end of any trial you want.
 
-When you've read these instructions, press '5' to move on to the training instructions.
+When you've read these instructions, press '4' to move on to the training instructions.
 #
 In each trial (about 8 seconds) there are three adult German speakers: one male, two female.
 
@@ -16,7 +16,7 @@ After listening to the entire trial, you will be asked whether you heard a diffe
 
 The different pitch segment will be very short: the speech will briefly change pitch then go back to the same pitch.
 
-Press '5' to continue.
+Press '4' to continue.
 #
 The pitch might become lower (sounds deeper) or higher (sounds more child-like).
 
@@ -26,7 +26,7 @@ There may or may not actually be a different pitch segment.
 
 The different pitch segment can be among the sentences of any speaker, and it can be at any direction (left/right/center).
 
-Press '5' to continue.
+Press '4' to continue.
 #
 You have completed the training section.
 
@@ -34,7 +34,7 @@ The experiment will follow the same procedure as training, but you will not be i
 
 Let the experimenter know now if you have any questions or concerns, or did not understand any part of the task.
 
-Press '5' to start the first experiment trial.
+Press '4' to start the first experiment trial.
 #will be very similar with only a small difference:
 
 From now on, you should pay attention to whatever is being spoken at the RIGHT SIDE.
@@ -43,13 +43,13 @@ As you have already realized, the speaker towards the right will keep changing.
 
 As a speaker moves to the left, try to not follow them, but instead focus your attention to the new speaker to the right.
 
-Press '5' to continue.
+Press '4' to continue.
 #
 To help you get acquianted with this new task, there will be a couple of practice trials before the experiment resumes.
 
 Listen and practice keeping your attention at the speech you hear in your right ear.
 
-Press '5' to hear a practice trial.
+Press '4' to hear a practice trial.
 #
 From now on, keep your attention on the RIGHT side ONLY.
 
@@ -57,7 +57,7 @@ If it helps, you can focus on what is being said in the right and try to make se
 
 You will still be asked whether you heard a different pitch segment at the end of each trial. 
 
-Press '5' to continue.
+Press '4' to continue.
 #
 Important note: You should report Yes if you happened to hear a different pitch segment that didn't come from the right 
 
@@ -65,20 +65,20 @@ Important note: You should report Yes if you happened to hear a different pitch 
 
 Let the experimenter know if you are having trouble keeping your attention towards the right.
 
-Press '5' to start the first trial of the next section.
+Press '4' to start the first trial of the next section.
 #will be very similar with only a small difference:
 
 From now on, you should only pay attention to the MALE speaker and follow whatever he is saying.
 
 The male speaker will always start from the left ear. You can start following him there.
 
-Press '5' to continue.
+Press '4' to continue.
 #
 To help you get acquianted with this new task, there will be a couple of practice trials before the experiment resumes.
 
 Just listen and practice following the male speaker.
 
-Press '5' to hear a practice trial.
+Press '4' to hear a practice trial.
 #
 From now on, keep your attention on the MALE speaker ONLY.
 
@@ -87,7 +87,7 @@ You can focus on what the male is saying and try to make sense of it, so that yo
 You will still be asked whether you heard a different pitch segment at the end of each trial. 
 
 
-Press '5' to continue
+Press '4' to continue
 #
 Important note: You should report Yes if you happened to hear a different pitch segment that wasn't male 
 
@@ -96,7 +96,7 @@ Important note: You should report Yes if you happened to hear a different pitch 
 
 Let the experimenter know if you are having trouble keeping your attention on the male voice.
 
-Press '5' to start the first trial of the next section.
+Press '4' to start the first trial of the next section.
 #
 You have completed the experiment!
 
@@ -112,7 +112,7 @@ Try to understand what different pitches sound like, and press '3' to repeat wha
 When you repeat a trial, it will show you exactly where the different sound was.
 
 
-Press '5' to hear the first training trial.
+Press '4' to hear the first training trial.
 #
 Now the different pitch segments will no longer be louder.
 
@@ -128,4 +128,4 @@ Remember, it can be higher or lower (noticeably more so than natural speech diff
 Higher sounds like a child, and lower sounds like a deeper voice.
 
 
-Press '5' to hear the next training trial.
+Press '4' to hear the next training trial.

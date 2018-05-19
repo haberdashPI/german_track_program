@@ -273,7 +273,7 @@ begin
 		# for orientation in cue block
 		if block_idx==3 && do_obj_orientation then
 			if trial_idx==1 then
-				message_showing("Press '5' to hear another example trial.");
+				message_showing("Press '4' to hear another example trial.");
 				trial_idx = trial_idx + 1;
 				continue;
 			else
@@ -287,7 +287,7 @@ begin
 			end;
 		elseif block_idx==2 && do_feat_orientation then
 			if trial_idx==1 then
-				message_showing("Press '5' to hear another example trial.");
+				message_showing("Press '4' to hear another example trial.");
 				trial_idx = trial_idx + 1;
 				continue;
 			else
@@ -354,14 +354,14 @@ begin
 			string this_text2;
 			if is_control[file_idx]==0 then
 				this_text = this_text + "\n\n" + train_messages[file_idx];
-				this_text1 = this_text + "\n\nPress '5' to hear the trial again, with the pitch segment location shown to you.";
+				this_text1 = this_text + "\n\nPress '4' to hear the trial again, with the pitch segment location shown to you.";
 				this_text2 = this_text + "\n\nPress '3' to listen to the clip again with the pitch segment location shown to you.";
 			else
 				this_text = this_text + "\n\n";
-				this_text1 = this_text + "\n\nPress '5' to hear the trial again.";
+				this_text1 = this_text + "\n\nPress '4' to hear the trial again.";
 				this_text2 = this_text + "\n\nPress '3' to listen to the clip again.";
 			end;
-			this_text2 = this_text2 + "\n\nPress '5' to start the next trial.";
+			this_text2 = this_text2 + "\n\nPress '4' to start the next trial.";
 			if do_training_loud then
 				message.set_caption(this_text1);
 			else
@@ -432,7 +432,7 @@ begin
 				
 			if mod(trial_idx,break_trial_idx)==0 && trial_idx!=until_trial_idx then
 				print_termfile("Giving a break with the rest trial.\n");
-				message.set_caption("Press '5' to start the next trial." + rest_msgs[block_idx]);
+				message.set_caption("Press '4' to start the next trial." + rest_msgs[block_idx]);
 				message.redraw();
 				soundtrial_button_activation();
 				stop_recording.present();
