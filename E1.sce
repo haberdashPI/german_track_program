@@ -1,6 +1,6 @@
 response_matching = simple_matching;
 response_logging = log_active;
-active_buttons = 5; #space,y,n,enter,r
+active_buttons = 5; #keyboard: space,y,n,enter,r #response pad: 4,yes,no,x,3
 default_font_size = 30;
 write_codes = true; # send codes to biosemi box (via the parallel port)
 stimulus_properties = block_type,string,block_idx,number,trial_order,number,trial_file,number;
@@ -203,6 +203,17 @@ string block_type = "train";
 int until_block_idx = 3; 
 int block_count = 0; 
 int file_idx = -1;
+
+# TEMPORARY: skips training
+# do_training = false;
+# do_training_loud = false;
+# block_type = "test";
+# num_correct = 0;
+# block_count = 2;
+# num_false_correct = 0;
+# num_hits_block = 0;
+# num_sal_trials = 0;
+
 loop int block_idx = 1 until block_idx > until_block_idx
 begin
 	
