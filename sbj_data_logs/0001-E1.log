@@ -1,0 +1,100 @@
+Scenario - 
+Logfile written - 01/24/2018 16:04:31
+
+Subject	Trial	Event Type	Code	block_type(str)	block_idx(num)	trial_order(num)	trial_file(num)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+0001	1	Response	1					450634	449801	1
+0001	3	Response	1					555808	104837	1
+0001	5	Response	1					775426	219423	1
+0001	7	Response	1					907614	131876	1
+0001	9	Sound	train;1;1;2	train	1	1	2	908626	0	1			0		other	0
+0001	10	Response	3					1021899	31096	1
+0001	11	Response	4					1064256	42277	1
+0001	13	Response	1					1107572	43080	1
+0001	15	Sound	guided_trial	guided_trial				1108025	0	1			0		other	0
+0001	16	Response	5					1228731	38534	1
+0001	18	Sound	guided_trial	guided_trial				1229223	0	1			0		other	0
+0001	19	Response	5					1346853	35452	1
+0001	21	Sound	guided_trial	guided_trial				1347323	0	1			0		other	0
+0001	22	Response	1					1447233	17629	1
+0001	24	Sound	train;1;1;10	train	1	1	10	1448122	0	1			0		other	0
+0001	25	Response	3					1565195	51732	1
+0001	26	Response	4					1570789	5477	1
+0001	28	Response	1					1598921	27940	1
+0001	30	Sound	guided_trial	guided_trial				1599321	0	1			0		other	0
+0001	31	Response	5					1676764	12088	1
+0001	33	Sound	guided_trial	guided_trial				1677220	0	1			0		other	0
+0001	34	Response	1					1757642	15109	1
+0001	36	Sound	train;1;1;17	train	1	1	17	1758519	0	1			0		other	0
+0001	37	Response	2					1842358	13798	1
+0001	38	Response	4					1864255	21691	1
+0001	40	Response	1					1896224	31653	1
+0001	42	Sound	guided_trial	guided_trial				1896818	0	1			0		other	0
+0001	43	Response	5					2010830	44062	1
+0001	45	Sound	guided_trial	guided_trial				2011317	0	1			0		other	0
+0001	46	Response	1					2099541	18237	1
+0001	48	Sound	train;1;1;22	train	1	1	22	2100617	0	1			0		other	0
+0001	49	Response	3					2208871	17201	1
+0001	50	Response	4					2219741	10732	1
+0001	52	Response	1					2271369	51357	1
+0001	54	Sound	guided_trial	guided_trial				2271915	0	1			0		other	0
+0001	55	Response	5					2378782	15893	1
+0001	57	Sound	guided_trial	guided_trial				2379314	0	1			0		other	0
+0001	58	Response	5					2480439	10016	1
+0001	60	Sound	guided_trial	guided_trial				2481014	0	1			0		other	0
+0001	61	Response	5					2577462	5342	1
+0001	63	Sound	guided_trial	guided_trial				2578013	0	1			0		other	0
+0001	64	Response	1					2689510	20360	1
+0001	66	Sound	train;1;1;2	train	1	1	2	2690312	0	1			0		other	0
+0001	67	Response	2					2794843	22328	1
+0001	68	Response	4					2802995	7973	1
+0001	70	Response	1					2827610	24419	1
+0001	72	Sound	guided_trial	guided_trial				2828111	0	1			0		other	0
+0001	73	Response	1					2929424	19034	1
+0001	75	Sound	train;1;1;10	train	1	1	10	2931210	0	1			0		other	0
+0001	76	Response	2					3006624	10040	1
+0001	77	Response	4					3014135	7382	1
+0001	79	Response	1					3040029	25606	1
+0001	81	Sound	guided_trial	guided_trial				3040509	0	1			0		other	0
+0001	82	Response	1					3122344	16394	1
+0001	84	Sound	train;1;1;22	train	1	1	22	3127909	0	1			0		other	0
+0001	85	Response	2					3230552	11567	1
+0001	86	Response	4					3238224	7569	1
+0001	88	Response	1					3261399	22908	1
+0001	90	Sound	guided_trial	guided_trial				3261908	0	1			0		other	0
+0001	91	Response	1					3404451	51425	1
+0001	93	Response	1					3481173	76464	1
+0001	95	Sound	train;1;1;4	train	1	1	4	3482106	0	1			0		other	0
+0001	96	Response	3					3573559	13636	1
+0001	97	Response	4					3582030	8270	1
+0001	99	Response	5					3638134	55871	1
+0001	101	Sound	guided_trial	guided_trial				3638705	0	1			0		other	0
+0001	102	Response	5					3727484	11014	1
+0001	104	Sound	guided_trial	guided_trial				3728004	0	1			0		other	0
+0001	105	Response	1					3816833	11002	1
+0001	107	Sound	train;1;1;12	train	1	1	12	3818003	0	1			0		other	0
+0001	108	Response	3					3909221	16697	1
+0001	109	Response	4					3915295	5932	1
+0001	111	Response	5					3945345	29814	1
+0001	113	Sound	guided_trial	guided_trial				3945902	0	1			0		other	0
+0001	114	Response	5					4030219	9823	1
+0001	116	Sound	guided_trial	guided_trial				4030801	0	1			0		other	0
+0001	117	Response	5					4110618	5196	1
+0001	119	Sound	guided_trial	guided_trial				4111101	0	1			0		other	0
+0001	120	Response	1					4202206	16592	1
+0001	122	Sound	train;1;1;13	train	1	1	13	4203200	0	1			0		other	0
+0001	123	Response	3					4288840	16032	1
+0001	124	Response	4					4293154	4176	1
+0001	126	Response	5					4315693	22213	1
+0001	128	Sound	train;1;1;13	train	1	1	13	4316199	0	1			0		other	0
+0001	129	Response	1					4405203	19527	1
+0001	131	Sound	train;1;1;19	train	1	1	19	4406199	0	1			0		other	0
+0001	132	Response	3					4493753	14383	1
+0001	133	Response	4					4511495	17620	1
+0001	135	Response	5					4540745	29031	1
+0001	137	Sound	guided_trial	guided_trial				4541297	0	1			0		other	0
+0001	138	Response	5					4629936	15524	1
+0001	140	Sound	guided_trial	guided_trial				4630497	0	1			0		other	0
+0001	141	Response	5					4714011	10406	1
+0001	143	Sound	guided_trial	guided_trial				4714496	0	1			0		other	0
+0001	143	Quit						4771403	56907	NA

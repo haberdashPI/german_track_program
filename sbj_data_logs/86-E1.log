@@ -1,0 +1,613 @@
+Scenario - 
+Logfile written - 02/01/2016 18:19:19
+
+Subject	Trial	Event Type	Code	block_type(str)	block_idx(num)	trial_order(num)	trial_file(num)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+86	1	Response	s					295566	294734	1
+86	3	Response	s					643561	347569	1
+86	5	Response	s					824199	180382	1
+86	7	Sound	train;1;1;2	train	1	1	2	825333	0	1			0		other	0
+86	8	Response	n					939317	31840	1
+86	9	Response	e					1057555	118079	1
+86	11	Response	r					1157074	99268	1
+86	14	Response	r					1314511	74376	1
+86	17	Response	s					1560108	162477	1
+86	19	Sound	train;1;1;10	train	1	1	10	1560955	0	1			0		other	0
+86	20	Response	y					1641227	14934	1
+86	21	Response	e					1662666	21429	1
+86	23	Response	s					1733625	70667	1
+86	26	Response	s					1824104	24149	1
+86	28	Sound	train;1;1;17	train	1	1	17	1825031	0	1			0		other	0
+86	29	Response	n					1925623	30670	1
+86	30	Response	e					1939622	13837	1
+86	32	Response	s					1988982	49031	1
+86	35	Response	s					2079781	19833	1
+86	37	Sound	train;1;1;22	train	1	1	22	2080918	0	1			0		other	0
+86	38	Response	n					2185299	13353	1
+86	39	Response	e					2195379	9934	1
+86	41	Response	s					2229298	33686	1
+86	44	Response	s					2340977	19702	1
+86	46	Sound	train;1;1;34	train	1	1	34	2341979	0	1			0		other	0
+86	47	Response	y					2433775	10336	1
+86	48	Response	e					2440255	6316	1
+86	50	Response	s					2483615	43176	1
+86	53	Response	s					2587133	21197	1
+86	55	Sound	train;1;1;1	train	1	1	1	2588155	0	1			0		other	0
+86	56	Response	y					2676092	4992	1
+86	57	Response	e					2682972	6706	1
+86	59	Response	s					2722891	39625	1
+86	62	Response	s					2853049	46453	1
+86	64	Sound	train;1;1;2	train	1	1	2	2853931	0	1			0		other	0
+86	65	Response	n					2956168	20075	1
+86	66	Response	e					2961048	4789	1
+86	68	Response	s					2993767	32508	1
+86	71	Response	s					3098726	21803	1
+86	73	Sound	train;1;1;17	train	1	1	17	3099701	0	1			0		other	0
+86	74	Response	y					3186325	16571	1
+86	75	Response	e					3198884	12464	1
+86	77	Response	s					3256564	57477	1
+86	80	Response	s					3352562	25145	1
+86	82	Sound	train;1;1;22	train	1	1	22	3353486	0	1			0		other	0
+86	83	Response	y					3455921	11507	1
+86	84	Response	e					3476880	20800	1
+86	86	Response	s					3530080	53000	1
+86	89	Response	s					3641278	19369	1
+86	91	Sound	train;1;1;2	train	1	1	2	3642258	0	1			0		other	0
+86	92	Response	y					3741757	17350	1
+86	93	Response	e					3764956	23050	1
+86	95	Response	s					3804236	38997	1
+86	98	Response	s					3927674	40271	1
+86	100	Response	s					4022873	94971	1
+86	102	Sound	train;1;1;4	train	1	1	4	4023814	0	1			0		other	0
+86	103	Response	y					4108151	6587	1
+86	104	Response	e					4112951	4721	1
+86	106	Response	r					4199350	86120	1
+86	109	Response	s					4300869	22810	1
+86	111	Sound	train;1;1;12	train	1	1	12	4301787	0	1			0		other	0
+86	112	Response	y					4399027	22803	1
+86	113	Response	e					4405987	6931	1
+86	115	Response	r					4458626	52403	1
+86	118	Response	s					4551025	16972	1
+86	120	Sound	train;1;1;13	train	1	1	13	4551955	0	1			0		other	0
+86	121	Response	y					4638544	16993	1
+86	122	Response	e					4641903	3186	1
+86	124	Response	s					4675343	33126	1
+86	126	Sound	train;1;1;19	train	1	1	19	4676354	0	1			0		other	0
+86	127	Response	n					4773902	24354	1
+86	128	Response	e					4781341	7294	1
+86	130	Response	r					4803021	21474	1
+86	133	Response	s					4931900	54856	1
+86	135	Sound	train;1;1;28	train	1	1	28	4932927	0	1			0		other	0
+86	136	Response	y					5028938	10897	1
+86	137	Response	e					5030858	1818	1
+86	139	Response	s					5043338	12298	1
+86	141	Sound	train;1;1;37	train	1	1	37	5044314	0	1			0		other	0
+86	142	Response	n					5139817	13279	1
+86	143	Response	e					5147897	8026	1
+86	145	Response	s					5174856	26652	1
+86	147	Sound	train;1;1;24	train	1	1	24	5175799	0	2			0		other	0
+86	148	Response	y					5277495	10127	1
+86	149	Response	e					5282695	5161	1
+86	151	Response	s					5324214	41180	1
+86	153	Sound	train;1;1;32	train	1	1	32	5325281	0	1			0		other	0
+86	154	Response	n					5420213	10349	1
+86	155	Response	e					5423652	3288	1
+86	157	Response	r					5458292	34428	1
+86	160	Response	s					5553171	9643	1
+86	162	Sound	train;1;1;36	train	1	1	36	5554152	0	1			0		other	0
+86	163	Response	y					5645649	8624	1
+86	164	Response	e					5651489	5797	1
+86	166	Response	s					5691568	39877	1
+86	168	Sound	train;1;1;40	train	1	1	40	5692541	0	1			0		other	0
+86	169	Response	n					5769568	11379	1
+86	170	Response	e					5776367	6678	1
+86	172	Response	s					5806127	29272	1
+86	174	Sound	train;1;1;13	train	1	1	13	5807031	0	1			0		other	0
+86	175	Response	n					5889086	12567	1
+86	176	Response	e					5895325	6140	1
+86	178	Response	s					5916045	20526	1
+86	180	Sound	train;1;1;19	train	1	1	19	5917132	0	1			0		other	0
+86	181	Response	n					6003404	13221	1
+86	182	Response	e					6007484	3968	1
+86	184	Response	r					6032204	24522	1
+86	187	Response	s					6121403	15223	1
+86	189	Sound	train;1;1;28	train	1	1	28	6122400	0	1			0		other	0
+86	190	Response	y					6278840	71330	1
+86	191	Response	e					6291320	12311	1
+86	193	Response	s					6312200	20692	1
+86	195	Sound	train;1;1;32	train	1	1	32	6313381	0	1			0		other	0
+86	196	Response	n					6406119	8280	1
+86	197	Response	e					6409718	3546	1
+86	199	Response	s					6471718	61712	1
+86	201	Sound	train;1;1;19	train	1	1	19	6472767	0	1			0		other	0
+86	202	Response	n					6560516	14681	1
+86	203	Response	e					6564756	4088	1
+86	205	Response	r					6599076	34074	1
+86	208	Response	s					6686194	13028	1
+86	210	Sound	train;1;1;28	train	1	1	28	6687353	0	1			0		other	0
+86	211	Response	n					6784833	12337	1
+86	212	Response	e					6788593	3597	1
+86	214	Response	s					6804513	15684	1
+86	216	Sound	train;1;1;32	train	1	1	32	6805638	0	1			0		other	0
+86	217	Response	y					6901871	11711	1
+86	218	Response	e					6914031	12038	1
+86	220	Response	s					6948751	34425	1
+86	222	Sound	train;1;1;19	train	1	1	19	6949727	0	1			0		other	0
+86	223	Response	n					7030910	8087	1
+86	224	Response	n					7045069	14079	1
+86	225	Response	e					7082988	37832	1
+86	227	Response	r					7126108	42786	1
+86	230	Response	s					7210747	10595	1
+86	232	Sound	train;1;1;19	train	1	1	19	7211636	0	1			0		other	0
+86	233	Response	y					7291386	6736	1
+86	234	Response	e					7295465	3982	1
+86	236	Response	s					7321945	26295	1
+86	238	Response	s					7508423	186274	1
+86	240	Sound	test;1;1;37	test	1	1	37	7509572	0	1			0		other	0
+86	241	Response	n					7619541	18899	1
+86	242	Response	e					7638100	18459	1
+86	244	Sound	test;1;2;48	test	1	2	48	7639150	0	1			0		other	0
+86	245	Response	n					7725860	5221	1
+86	246	Response	e					7732099	6127	1
+86	248	Sound	test;1;3;34	test	1	3	34	7733149	0	1			0		other	0
+86	249	Response	y					7812738	6435	1
+86	250	Response	e					7822338	9535	1
+86	252	Sound	test;1;4;4	test	1	4	4	7823533	0	1			0		other	0
+86	253	Response	y					7920497	5363	1
+86	254	Response	e					7926576	5943	1
+86	256	Sound	test;1;5;3	test	1	5	3	7927622	0	1			0		other	0
+86	257	Response	n					8032015	18550	1
+86	258	Response	e					8037935	5804	1
+86	260	Sound	test;1;6;40	test	1	6	40	8038908	0	1			0		other	0
+86	261	Response	y					8140734	9106	1
+86	262	Response	e					8168973	28178	1
+86	264	Sound	test;1;7;33	test	1	7	33	8170097	0	1			0		other	0
+86	265	Response	n					8254812	11520	1
+86	266	Response	e					8264412	9454	1
+86	268	Sound	test;1;8;20	test	1	8	20	8265394	0	1			0		other	0
+86	269	Response	n					8348411	17288	1
+86	270	Response	e					8352330	3874	1
+86	272	Sound	test;1;9;9	test	1	9	9	8353388	0	1			0		other	0
+86	273	Response	n					8446489	8035	1
+86	274	Response	e					8453209	6589	1
+86	276	Sound	test;1;10;46	test	1	10	46	8454172	0	1			0		other	0
+86	277	Response	n					8550808	15190	1
+86	278	Response	e					8557767	6816	1
+86	280	Sound	test;1;11;5	test	1	11	5	8558874	0	1			0		other	0
+86	281	Response	y					8659206	7591	1
+86	282	Response	e					8672326	13044	1
+86	284	Sound	test;1;12;23	test	1	12	23	8673550	0	1			0		other	0
+86	285	Response	y					8755045	6932	1
+86	286	Response	e					8759444	4332	1
+86	288	Sound	test;1;13;2	test	1	13	2	8760647	0	1			0		other	0
+86	289	Response	y					8873843	22233	1
+86	290	Response	e					8877203	3260	1
+86	292	Sound	test;1;14;7	test	1	14	7	8878331	0	1			0		other	0
+86	293	Response	n					8980802	11528	1
+86	294	Response	e					8984989	4049	54
+86	296	Sound	test;1;15;26	test	1	15	26	8986015	0	1			0		other	0
+86	297	Response	n					9064480	12375	1
+86	298	Response	e					9069360	4755	1
+86	300	Sound	test;1;16;29	test	1	16	29	9070413	0	1			0		other	0
+86	301	Response	n					9151999	11896	1
+86	302	Response	e					9160159	8057	1
+86	304	Sound	test;1;17;12	test	1	17	12	9161200	0	1			0		other	0
+86	305	Response	y					9250878	5111	1
+86	306	Response	e					9255571	4638	30
+86	308	Response	s					9891429	635496	1
+86	310	Sound	test;1;18;13	test	1	18	13	9892532	0	1			0		other	0
+86	311	Response	y					9979347	5266	1
+86	312	Response	e					9992307	12892	1
+86	314	Sound	test;1;19;8	test	1	19	8	9993416	0	1			0		other	0
+86	315	Response	n					10092706	14127	1
+86	316	Response	e					10097425	4680	1
+86	318	Sound	test;1;20;36	test	1	20	36	10098601	0	1			0		other	0
+86	319	Response	n					10205344	11102	1
+86	320	Response	e					10214064	8655	1
+86	322	Sound	test;1;21;31	test	1	21	31	10214990	0	1			0		other	0
+86	323	Response	y					10289903	3996	1
+86	324	Response	e					10296222	6149	1
+86	326	Sound	test;1;22;39	test	1	22	39	10297184	0	1			0		other	0
+86	327	Response	n					10410461	21724	1
+86	328	Response	e					10420221	9651	1
+86	330	Sound	test;1;23;43	test	1	23	43	10421174	0	1			0		other	0
+86	331	Response	n					10516940	10706	1
+86	332	Response	e					10521099	4032	1
+86	334	Sound	test;1;24;41	test	1	24	41	10522167	0	1			0		other	0
+86	335	Response	n					10619418	12020	1
+86	336	Response	e					10627418	7853	1
+86	338	Sound	test;1;25;22	test	1	25	22	10628449	0	1			0		other	0
+86	339	Response	n					10706537	13141	1
+86	340	Response	e					10710776	4214	1
+86	342	Sound	test;1;26;42	test	1	26	42	10711836	0	1			0		other	0
+86	343	Response	y					10809495	6602	1
+86	344	Response	y					10817895	8335	1
+86	345	Response	e					10837415	19355	1
+86	347	Sound	test;1;27;1	test	1	27	1	10838532	0	1			0		other	0
+86	348	Response	n					10948933	14710	1
+86	349	Response	e					10957413	8357	1
+86	351	Sound	test;1;28;11	test	1	28	11	10958522	0	1			0		other	0
+86	352	Response	y					11044692	4638	1
+86	353	Response	e					11048772	4051	1
+86	355	Sound	test;1;29;15	test	1	29	15	11049910	0	1			0		other	0
+86	356	Response	y					11140451	6566	1
+86	357	Response	e					11146770	6219	1
+86	359	Sound	test;1;30;28	test	1	30	28	11147893	0	1			0		other	0
+86	360	Response	y					11220690	3307	1
+86	361	Response	e					11230369	9653	1
+86	363	Sound	test;1;31;32	test	1	31	32	11231389	0	1			0		other	0
+86	364	Response	y					11310528	8147	1
+86	365	Response	e					11315968	5254	1
+86	367	Sound	test;1;32;45	test	1	32	45	11317081	0	1			0		other	0
+86	368	Response	n					11413887	12009	1
+86	369	Response	e					11420766	6722	1
+86	371	Sound	test;1;33;27	test	1	33	27	11421876	0	1			0		other	0
+86	372	Response	n					11521725	25683	1
+86	373	Response	e					11525165	3290	1
+86	375	Sound	test;1;34;21	test	1	34	21	11526161	0	1			0		other	0
+86	376	Response	y					11602044	12504	1
+86	377	Response	e					11612124	9918	1
+86	379	Response	s					12234115	621742	1
+86	381	Sound	test;1;35;35	test	1	35	35	12235099	0	2			0		other	0
+86	382	Response	n					12315874	5853	1
+86	383	Response	e					12326034	10013	1
+86	385	Sound	test;1;36;19	test	1	36	19	12327185	0	1			0		other	0
+86	386	Response	y					12410272	5253	1
+86	387	Response	e					12416736	6384	17
+86	389	Sound	test;1;37;16	test	1	37	16	12417876	0	1			0		other	0
+86	390	Response	n					12505871	5188	1
+86	391	Response	e					12511871	5855	1
+86	393	Sound	test;1;38;14	test	1	38	14	12512967	0	1			0		other	0
+86	394	Response	n					12598910	4396	1
+86	395	Response	e					12608589	9575	1
+86	397	Sound	test;1;39;10	test	1	39	10	12609658	0	1			0		other	0
+86	398	Response	n					12713228	18717	1
+86	399	Response	e					12717228	3884	1
+86	401	Sound	test;1;40;47	test	1	40	47	12718342	0	1			0		other	0
+86	402	Response	y					12806747	3905	1
+86	403	Response	e					12810346	3504	1
+86	405	Sound	test;1;41;25	test	1	41	25	12811430	0	1			0		other	0
+86	406	Response	y					12909785	32945	1
+86	407	Response	e					12913465	3626	1
+86	409	Sound	test;1;42;38	test	1	42	38	12914421	0	1			0		other	0
+86	410	Response	y					13005624	5287	1
+86	411	Response	e					13008584	2914	1
+86	413	Sound	test;1;43;24	test	1	43	24	13009617	0	1			0		other	0
+86	414	Response	n					13088903	3402	1
+86	415	Response	e					13092982	3981	1
+86	417	Sound	test;1;44;6	test	1	44	6	13093906	0	1			0		other	0
+86	418	Response	y					13185541	6375	1
+86	419	Response	e					13188981	3352	1
+86	421	Sound	test;1;45;49	test	1	45	49	13189922	0	1			0		other	0
+86	422	Response	y					13276260	4930	1
+86	423	Response	e					13281380	5050	1
+86	425	Sound	test;1;46;17	test	1	46	17	13282377	0	1			0		other	0
+86	426	Response	n					13368819	4325	1
+86	427	Response	e					13373538	4544	1
+86	429	Sound	test;1;47;50	test	1	47	50	13374675	0	1			0		other	0
+86	430	Response	n					13462737	4078	1
+86	431	Response	e					13466417	3592	1
+86	433	Sound	test;1;48;44	test	1	48	44	13467469	0	1			0		other	0
+86	434	Response	n					13555936	3447	1
+86	435	Response	e					13560336	4347	1
+86	437	Sound	test;1;49;30	test	1	49	30	13561405	0	64			0		other	0
+86	438	Response	y					13637055	6734	1
+86	439	Response	e					13643214	6060	1
+86	441	Sound	test;1;50;18	test	1	50	18	13644348	0	1			0		other	0
+86	442	Response	y					13728654	4836	1
+86	443	Response	e					13733693	4875	1
+86	445	Response	s					13853212	118894	1
+86	447	Sound	object;3;1;1	object	3	1	1	13854331	0	1			0		other	0
+86	448	Response	s					13954730	17584	1
+86	450	Sound	object;3;2;2	object	3	2	2	13955723	0	1			0		other	0
+86	451	Response	s					14218807	180900	1
+86	453	Sound	object;3;1;25	object	3	1	25	14219893	0	1			0		other	0
+86	454	Response	y					14310005	24701	1
+86	455	Response	e					14361444	51307	1
+86	457	Sound	object;3;2;43	object	3	2	43	14362382	0	1			0		other	0
+86	458	Response	n					14460643	13177	1
+86	460	Response	e					14471283	0	1
+86	461	Sound	object;3;3;46	object	3	3	46	14472359	0	1			0		other	0
+86	462	Response	n					14563442	9645	1
+86	463	Response	e					14569761	6298	1
+86	465	Sound	object;3;4;35	object	3	4	35	14570761	0	1			0		other	0
+86	466	Response	y					14683760	37965	1
+86	467	Response	e					14689760	5967	1
+86	469	Sound	object;3;5;10	object	3	5	10	14690847	0	1			0		other	0
+86	470	Response	n					14810398	34773	1
+86	471	Response	e					14815518	5061	1
+86	473	Sound	object;3;6;24	object	3	6	24	14816631	0	1			0		other	0
+86	474	Response	y					14898877	6433	1
+86	475	Response	e					14903116	4161	1
+86	477	Sound	object;3;7;16	object	3	7	16	14904226	0	1			0		other	0
+86	478	Response	y					14995995	8876	1
+86	479	Response	e					15003435	7316	1
+86	481	Sound	object;3;8;29	object	3	8	29	15004416	0	1			0		other	0
+86	482	Response	y					15083914	9797	1
+86	483	Response	e					15090234	6284	1
+86	485	Sound	object;3;9;28	object	3	9	28	15091203	0	1			0		other	0
+86	486	Response	y					15167593	6812	1
+86	487	Response	e					15171113	3332	1
+86	489	Sound	object;3;10;1	object	3	10	1	15172288	0	1			0		other	0
+86	490	Response	y					15276231	8286	1
+86	491	Response	e					15285591	9313	1
+86	493	Sound	object;3;11;31	object	3	11	31	15286490	0	1			0		other	0
+86	494	Response	y					15360390	2947	1
+86	495	Response	e					15364390	3947	1
+86	497	Sound	object;3;12;20	object	3	12	20	15365375	0	1			0		other	0
+86	498	Response	n					15444149	13041	1
+86	499	Response	e					15447989	3715	1
+86	501	Sound	object;3;13;32	object	3	13	32	15448969	0	1			0		other	0
+86	502	Response	y					15528468	8529	1
+86	503	Response	e					15537108	8503	1
+86	505	Sound	object;3;14;13	object	3	14	13	15538153	0	1			0		other	0
+86	506	Response	n					15631186	11583	1
+86	507	Response	e					15635666	4397	1
+86	509	Sound	object;3;15;47	object	3	15	47	15636745	0	1			0		other	0
+86	510	Response	n					15731105	9838	1
+86	511	Response	e					15739665	8398	1
+86	513	Sound	object;3;16;3	object	3	16	3	15740746	0	1			0		other	0
+86	514	Response	y					15830224	3626	1
+86	515	Response	e					15834623	4359	1
+86	517	Sound	object;3;17;38	object	3	17	38	15835733	0	1			0		other	0
+86	518	Response	n					15925342	3747	1
+86	519	Response	e					15928782	3354	1
+86	521	Response	s					16579973	650878	1
+86	523	Sound	object;3;18;9	object	3	18	9	16580957	0	1			0		other	0
+86	524	Response	n					16672131	6055	1
+86	525	Response	e					16675971	3728	1
+86	527	Sound	object;3;19;36	object	3	19	36	16677043	0	1			0		other	0
+86	528	Response	n					16778610	5870	1
+86	529	Response	e					16789169	10429	1
+86	531	Sound	object;3;20;42	object	3	20	42	16790238	0	1			0		other	0
+86	532	Response	n					16905328	24091	1
+86	533	Response	e					16912288	6885	1
+86	535	Sound	object;3;21;5	object	3	21	5	16913426	0	1			0		other	0
+86	536	Response	y					17011567	5333	1
+86	537	Response	e					17015486	3752	1
+86	539	Sound	object;3;22;34	object	3	22	34	17016513	0	1			0		other	0
+86	540	Response	n					17091965	2400	1
+86	541	Response	e					17095325	3260	1
+86	543	Sound	object;3;23;4	object	3	23	4	17096408	0	1			0		other	0
+86	544	Response	y					17193324	5261	1
+86	545	Response	e					17198124	4728	1
+86	547	Sound	object;3;24;12	object	3	24	12	17199196	0	1			0		other	0
+86	548	Response	y					17289883	6156	1
+86	549	Response	e					17294042	3982	1
+86	551	Sound	object;3;25;15	object	3	25	15	17295083	0	1			0		other	0
+86	552	Response	n					17389241	10183	1
+86	553	Response	e					17415001	25610	1
+86	555	Sound	object;3;26;6	object	3	26	6	17416073	0	2			0		other	0
+86	556	Response	y					17507159	5938	1
+86	557	Response	e					17511719	4498	1
+86	559	Sound	object;3;27;18	object	3	27	18	17512861	0	1			0		other	0
+86	560	Response	y					17599638	7252	1
+86	561	Response	e					17605478	5759	1
+86	563	Sound	object;3;28;30	object	3	28	30	17606452	0	1			0		other	0
+86	564	Response	n					17677717	2500	1
+86	565	Response	e					17681797	3913	1
+86	567	Sound	object;3;29;7	object	3	29	7	17682842	0	1			0		other	0
+86	568	Response	n					17778836	4955	1
+86	569	Response	e					17785715	6834	1
+86	571	Sound	object;3;30;48	object	3	30	48	17786838	0	1			0		other	0
+86	572	Response	n					17870354	1975	1
+86	573	Response	e					17875074	4695	1
+86	575	Sound	object;3;31;41	object	3	31	41	17876219	0	1			0		other	0
+86	576	Response	n					17964193	2817	1
+86	577	Response	e					17967792	3416	1
+86	579	Sound	object;3;32;23	object	3	32	23	17968915	0	1			0		other	0
+86	580	Response	y					18047152	3778	1
+86	581	Response	e					18051471	4264	1
+86	583	Sound	object;3;33;8	object	3	33	8	18052509	0	1			0		other	0
+86	584	Response	y					18140670	3131	1
+86	585	Response	e					18144430	3725	1
+86	587	Sound	object;3;34;27	object	3	34	27	18145498	0	1			0		other	0
+86	588	Response	n					18222429	2726	1
+86	589	Response	e					18226509	3973	1
+86	591	Response	s					18859140	632437	1
+86	593	Sound	object;3;35;39	object	3	35	39	18860127	0	1			0		other	0
+86	594	Response	n					18955299	3614	1
+86	595	Response	e					18969298	13947	1
+86	597	Sound	object;3;36;33	object	3	36	33	18970320	0	1			0		other	0
+86	598	Response	n					19050737	7221	1
+86	599	Response	e					19055217	4368	1
+86	601	Sound	object;3;37;17	object	3	37	17	19056408	0	1			0		other	0
+86	602	Response	y					19142656	4143	1
+86	603	Response	e					19201135	58455	1
+86	605	Sound	object;3;38;2	object	3	38	2	19202194	0	1			0		other	0
+86	606	Response	y					19295854	2678	1
+86	607	Response	e					19299533	3524	1
+86	609	Sound	object;3;39;22	object	3	39	22	19300686	0	1			0		other	0
+86	610	Response	y					19369053	3546	1
+86	611	Response	e					19373932	4758	1
+86	613	Sound	object;3;40;40	object	3	40	40	19375076	0	1			0		other	0
+86	614	Response	n					19471451	3613	1
+86	615	Response	e					19479931	8426	1
+86	617	Sound	object;3;41;14	object	3	41	14	19480972	0	1			0		other	0
+86	618	Response	n					19576010	13508	1
+86	619	Response	e					19579610	3441	1
+86	621	Sound	object;3;42;37	object	3	42	37	19580656	0	1			0		other	0
+86	622	Response	n					19674568	2902	1
+86	623	Response	e					19678648	3982	1
+86	625	Sound	object;3;43;26	object	3	43	26	19679652	0	1			0		other	0
+86	626	Response	n					19750007	4176	1
+86	627	Response	e					19754087	3923	1
+86	629	Sound	object;3;44;19	object	3	44	19	19755138	0	1			0		other	0
+86	630	Response	y					19834326	1497	1
+86	631	Response	e					19838486	3991	1
+86	633	Sound	object;3;45;44	object	3	45	44	19839626	0	1			0		other	0
+86	634	Response	n					19930325	5665	1
+86	635	Response	e					19934965	4472	1
+86	637	Sound	object;3;46;49	object	3	46	49	19935915	0	1			0		other	0
+86	638	Response	n					20020644	3332	1
+86	639	Response	e					20026083	5259	1
+86	641	Sound	object;3;47;45	object	3	47	45	20027116	0	1			0		other	0
+86	642	Response	n					20118562	6574	1
+86	643	Response	e					20121842	3187	1
+86	645	Sound	object;3;48;21	object	3	48	21	20122897	0	1			0		other	0
+86	646	Response	y					20189841	3521	1
+86	647	Response	e					20193121	3135	1
+86	649	Sound	object;3;49;50	object	3	49	50	20194191	0	1			0		other	0
+86	650	Response	n					20283280	5129	1
+86	651	Response	e					20286399	3082	1
+86	653	Sound	object;3;50;11	object	3	50	11	20287488	0	1			0		other	0
+86	654	Response	n					20371358	2376	1
+86	655	Response	e					20375118	3636	1
+86	657	Response	s					20546876	171228	1
+86	659	Sound	feature;2;1;1	feature	2	1	1	20548051	0	1			0		other	0
+86	660	Response	s					20642235	11260	1
+86	662	Sound	feature;2;2;2	feature	2	2	2	20643249	0	1			0		other	0
+86	663	Response	s					20854712	129302	1
+86	665	Sound	feature;2;1;12	feature	2	1	12	20855726	0	1			0		other	0
+86	666	Response	y					20943670	3370	1
+86	667	Response	e					20950550	6750	1
+86	669	Sound	feature;2;2;28	feature	2	2	28	20951618	0	1			0		other	0
+86	670	Response	y					21025029	3897	1
+86	671	Response	e					21029189	4057	1
+86	673	Sound	feature;2;3;23	feature	2	3	23	21030206	0	1			0		other	0
+86	674	Response	y					21114228	9432	1
+86	675	Response	e					21121347	7051	1
+86	677	Sound	feature;2;4;15	feature	2	4	15	21122403	0	1			0		other	0
+86	678	Response	n					21223186	16726	1
+86	679	Response	e					21226786	3493	1
+86	681	Sound	feature;2;5;21	feature	2	5	21	21227883	0	1			0		other	0
+86	682	Response	n					21295345	4054	1
+86	683	Response	e					21299185	3727	1
+86	685	Sound	feature;2;6;49	feature	2	6	49	21300181	0	1			0		other	0
+86	686	Response	n					21399344	17722	1
+86	687	Response	e					21403343	3888	1
+86	689	Sound	feature;2;7;33	feature	2	7	33	21404470	0	1			0		other	0
+86	690	Response	y					21482623	5003	1
+86	691	Response	e					21487582	4796	1
+86	693	Sound	feature;2;8;3	feature	2	8	3	21488667	0	1			0		other	0
+86	694	Response	y					21578861	4244	1
+86	695	Response	e					21582621	3671	1
+86	697	Sound	feature;2;9;10	feature	2	9	10	21583751	0	1			0		other	0
+86	698	Response	n					21675100	6485	1
+86	699	Response	e					21678939	3658	1
+86	701	Sound	feature;2;10;39	feature	2	10	39	21680144	0	1			0		other	0
+86	702	Response	y					21774938	3159	1
+86	703	Response	e					21778267	3155	32
+86	705	Sound	feature;2;11;1	feature	2	11	1	21779439	0	1			0		other	0
+86	706	Response	y					21877977	2868	1
+86	707	Response	e					21881336	3227	1
+86	709	Sound	feature;2;12;32	feature	2	12	32	21882424	0	1			0		other	0
+86	710	Response	y					21957016	3742	1
+86	711	Response	e					21962535	5427	1
+86	713	Sound	feature;2;13;14	feature	2	13	14	21963608	0	1			0		other	0
+86	714	Response	y					22051414	6309	1
+86	715	Response	e					22057574	6136	1
+86	717	Sound	feature;2;14;29	feature	2	14	29	22058505	0	1			0		other	0
+86	718	Response	y					22131253	2983	1
+86	719	Response	e					22135893	4457	1
+86	721	Sound	feature;2;15;38	feature	2	15	38	22136901	0	1			0		other	0
+86	722	Response	y					22226212	3445	1
+86	723	Response	e					22230292	4025	1
+86	725	Sound	feature;2;16;42	feature	2	16	42	22231389	0	1			0		other	0
+86	726	Response	n					22327090	4659	1
+86	727	Response	e					22331490	4226	1
+86	729	Sound	feature;2;17;40	feature	2	17	40	22332579	0	1			0		other	0
+86	730	Response	y					22437569	12307	1
+86	731	Response	e					22445488	7893	1
+86	733	Response	s					23181718	735957	1
+86	735	Sound	feature;2;18;16	feature	2	18	16	23182698	0	1			0		other	0
+86	736	Response	y					23269397	3823	1
+86	737	Response	e					23273317	3743	1
+86	739	Sound	feature;2;19;8	feature	2	19	8	23274384	0	1			0		other	0
+86	740	Response	n					23367316	7911	1
+86	741	Response	e					23370115	2711	1
+86	743	Sound	feature;2;20;41	feature	2	20	41	23371178	0	1			0		other	0
+86	744	Response	n					23462194	5792	1
+86	745	Response	e					23465714	3479	1
+86	747	Sound	feature;2;21;17	feature	2	21	17	23466662	0	1			0		other	0
+86	748	Response	y					23556513	7613	1
+86	749	Response	e					23559952	3386	1
+86	751	Sound	feature;2;22;43	feature	2	22	43	23561051	0	1			0		other	0
+86	752	Response	n					23648671	2607	1
+86	753	Response	e					23653471	4741	1
+86	755	Sound	feature;2;23;35	feature	2	23	35	23654547	0	1			0		other	0
+86	756	Response	y					23734750	5188	1
+86	757	Response	e					23738030	3180	1
+86	759	Sound	feature;2;24;19	feature	2	24	19	23739043	0	1			0		other	0
+86	760	Response	y					23821789	5063	1
+86	761	Response	e					23825549	3656	1
+86	763	Sound	feature;2;25;44	feature	2	25	44	23826727	0	1			0		other	0
+86	764	Response	n					23913788	1898	1
+86	765	Response	e					23917547	3657	1
+86	767	Sound	feature;2;26;22	feature	2	26	22	23918721	0	1			0		other	0
+86	768	Response	y					23989067	5512	1
+86	769	Response	e					23992346	3124	1
+86	771	Sound	feature;2;27;7	feature	2	27	7	23993413	0	1			0		other	0
+86	772	Response	n					24086665	2279	1
+86	773	Response	e					24091705	4986	1
+86	775	Sound	feature;2;28;45	feature	2	28	45	24092796	0	1			0		other	0
+86	776	Response	n					24180264	2547	1
+86	777	Response	e					24183864	3481	1
+86	779	Sound	feature;2;29;48	feature	2	29	48	24184893	0	1			0		other	0
+86	780	Response	n					24268423	2042	1
+86	781	Response	e					24271862	3314	1
+86	783	Sound	feature;2;30;31	feature	2	30	31	24272782	0	1			0		other	0
+86	784	Response	y					24346821	3109	1
+86	785	Response	e					24350261	3382	1
+86	787	Sound	feature;2;31;6	feature	2	31	6	24351370	0	1			0		other	0
+86	788	Response	n					24438180	1637	1
+86	789	Response	e					24446820	8610	1
+86	791	Sound	feature;2;32;34	feature	2	32	34	24447868	0	1			0		other	0
+86	792	Response	y					24523939	2898	1
+86	793	Response	e					24528339	4298	1
+86	795	Sound	feature;2;33;26	feature	2	33	26	24529258	0	1			0		other	0
+86	796	Response	n					24598978	3605	1
+86	797	Response	e					24604818	5779	1
+86	799	Sound	feature;2;34;50	feature	2	34	50	24605845	0	2			0		other	0
+86	800	Response	n					24692897	3027	1
+86	801	Response	e					24699696	6659	1
+86	803	Response	s					25320888	620851	1
+86	805	Sound	feature;2;35;2	feature	2	35	2	25321971	0	1			0		other	0
+86	806	Response	n					25416566	3548	1
+86	807	Response	e					25420646	3961	1
+86	809	Sound	feature;2;36;4	feature	2	36	4	25421666	0	1			0		other	0
+86	810	Response	n					25516325	3143	1
+86	811	Response	e					25520644	4295	1
+86	813	Sound	feature;2;37;37	feature	2	37	37	25521658	0	1			0		other	0
+86	814	Response	y					25617363	4684	1
+86	815	Response	e					25621523	4010	1
+86	817	Sound	feature;2;38;13	feature	2	38	13	25622646	0	1			0		other	0
+86	818	Response	n					25706882	2705	1
+86	819	Response	e					25710402	3392	1
+86	821	Sound	feature;2;39;25	feature	2	39	25	25711438	0	1			0		other	0
+86	822	Response	y					25781281	4439	1
+86	823	Response	e					25784641	3299	1
+86	825	Sound	feature;2;40;18	feature	2	40	18	25785632	0	1			0		other	0
+86	826	Response	y					25868080	2907	1
+86	827	Response	e					25872960	4787	1
+86	829	Sound	feature;2;41;46	feature	2	41	46	25873927	0	1			0		other	0
+86	830	Response	n					25958398	3061	1
+86	831	Response	e					25963918	5414	1
+86	833	Sound	feature;2;42;20	feature	2	42	20	25964925	0	1			0		other	0
+86	834	Response	y					26034397	3728	1
+86	835	Response	e					26039837	5335	1
+86	837	Sound	feature;2;43;24	feature	2	43	24	26040902	0	1			0		other	0
+86	838	Response	y					26119996	3163	1
+86	839	Response	e					26123836	3670	1
+86	841	Sound	feature;2;44;5	feature	2	44	5	26124997	0	1			0		other	0
+86	842	Response	y					26220555	2891	1
+86	843	Response	e					26228874	8210	1
+86	845	Sound	feature;2;45;11	feature	2	45	11	26229981	0	1			0		other	0
+86	846	Response	y					26314073	2578	1
+86	847	Response	e					26317513	3352	1
+86	849	Sound	feature;2;46;36	feature	2	46	36	26318678	0	1			0		other	0
+86	850	Response	y					26417032	2706	1
+86	851	Response	e					26420231	3072	1
+86	853	Sound	feature;2;47;9	feature	2	47	9	26421371	0	1			0		other	0
+86	854	Response	n					26510550	4060	1
+86	855	Response	e					26515590	4934	1
+86	857	Sound	feature;2;48;27	feature	2	48	27	26516653	0	1			0		other	0
+86	858	Response	y					26593429	2608	1
+86	859	Response	e					26597989	4502	1
+86	861	Sound	feature;2;49;30	feature	2	49	30	26599148	0	1			0		other	0
+86	862	Response	y					26673348	5363	1
+86	863	Response	e					26677748	4263	1
+86	865	Sound	feature;2;50;47	feature	2	50	47	26678845	0	1			0		other	0
+86	866	Response	n					26766387	3071	1
+86	867	Response	e					26773586	7103	1
+86	869	Response	s					26879825	105676	1

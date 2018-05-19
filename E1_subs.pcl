@@ -1,0 +1,156 @@
+#--------------------------------------------------------------------------
+# SHORT MESSAGES
+#--------------------------------------------------------------------------
+
+array<string> rest_msgs[3] = {"","\n\nRemember to listen to only the right side.","\n\nRemember to listen to only the male."};
+string msg_q = "Did you hear a different pitch segment?\n\n" + "Press 'Yes' for yes or 'No' for no. Your answer: ";
+string msg_q_answer = "";
+string msg_q_moveon = "You may change your answer by pressing yes/no again.\n\nPress 'x' to submit and continue.";
+string msg_block2 = "You have completed the first section of the experiment.\n\nThe next section ";
+string msg_block3 = "You have completed the second section of the experiment.\n\nThe final section ";
+
+#--------------------------------------------------------------------------
+# ACTUAL SUBS
+#--------------------------------------------------------------------------
+
+sub remove( array<int, 1>& arr, int index )
+begin
+    array<int> temp[0];
+    loop int i = 1 until i > arr.count()
+    begin
+        if i != index then
+            temp.add( arr[i] );
+        end;
+        i = i + 1;
+    end;
+    arr.assign( temp );
+end;
+
+# read in the message texts ----------------------------------------
+sub 
+	read_messages( string path )
+begin
+	input_file in = new input_file;
+	in.open(path);
+	in.set_delimiter('#');
+	messages.resize(0);
+	string curr_msg;
+	loop until in.end_of_file() 
+	begin
+		curr_msg = in.get_line();
+		messages.add(curr_msg);
+	end;  
+	if !in.end_of_file() then
+		term.print( "Something went wrong with file!\n" )
+	end; 
+end;
+sub 
+	read_train_messages( string path )
+begin
+	input_file in = new input_file;
+	in.open(path);
+	in.set_delimiter('#');
+	train_messages.resize(0);
+	string curr_msg;
+	loop until in.end_of_file() 
+	begin
+		curr_msg = in.get_line();
+		train_messages.add(curr_msg);
+	end;  
+	if !in.end_of_file() then
+		term.print( "Something went wrong with file!\n" )
+	end; 
+end;
+
+# show some message ------------------------------------------------
+sub 
+	message_showing( string message_txt )
+begin
+	message.set_caption(message_txt);
+	message.redraw();
+	message_trial.present();
+	blank_trial.present();
+end;
+
+# manage active buttons for various trials --------------------------
+# space y n enter
+sub 
+	soundtrial_button_activation
+begin
+	response_manager.set_button_active(1,true);
+	response_manager.set_button_active(2,false);
+	response_manager.set_button_active(3,false);
+	response_manager.set_button_active(4,false);
+	response_manager.set_button_active(5,false);
+end;
+sub 
+	questiontrial_button_activation
+begin
+	response_manager.set_button_active(1,false);
+	response_manager.set_button_active(2,true);
+	response_manager.set_button_active(3,true);
+	response_manager.set_button_active(4,true);
+	response_manager.set_button_active(5,false);
+end;
+sub 
+	answertrial_button_activation
+begin
+	response_manager.set_button_active(1,true);
+	response_manager.set_button_active(2,false);
+	response_manager.set_button_active(3,false);
+	response_manager.set_button_active(4,false);
+	response_manager.set_button_active(5,true);
+end;
+sub 
+	disable_buttons
+begin
+	response_manager.set_button_active(1,false);
+	response_manager.set_button_active(2,false);
+	response_manager.set_button_active(3,false);
+	response_manager.set_button_active(4,false);
+	response_manager.set_button_active(5,false);
+end;
+
+# write to terminal and file ----------------------------------------
+sub 
+	print_termfile( string thingie )
+begin
+	term.print(thingie);
+	term_text.append(thingie);    
+end;
+sub 
+	print_termfile_line( string thingie )
+begin
+	print_termfile(thingie+ "\n")   
+end;
+
+# read the timestamps and target types -------------------------------   
+sub
+	read_timestamps( string path )
+begin
+	input_file in = new input_file;
+	in.open(path);
+	in.set_delimiter( '\t' ); # for get_line()
+	timestamps.resize(0);
+	is_control.resize(0);
+	speaker.resize(0);
+	direction.resize(0);
+	double curr_stamp;
+	int ct;
+	int sp;
+	int dr;
+	loop until in.end_of_file() 
+	begin
+		curr_stamp = in.get_double();
+		ct = 1-in.get_int();
+		sp = in.get_int();
+		dr = in.get_int();
+		timestamps.add(curr_stamp);
+		is_control.add(ct);
+		speaker.add(sp);
+		direction.add(dr);
+	end;  
+	if !in.end_of_file() then
+		term.print( "Something went wrong with file!\n" )
+	end; 
+end;

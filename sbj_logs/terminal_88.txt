@@ -1,0 +1,237 @@
+Things are working, I am starting the experiment.
+Writing to: S:\Experiment E1\21\
+Subject id: 88
+Subject group: 0
+02/02/2016 09:53:15
+I am starting training.
+02/02/2016 09:55:30
+Doing block: 1. Block count: 0
+Trial: 1 stim 2.	Trial 1 answer 0 speaker 1 direction 1
+repeating trial
+repeating trial
+repeating trial
+repeating trial
+repeating trial
+repeating trial
+Trial: 1 stim 10.	Trial 1 answer 1 speaker 3 direction 3
+repeating trial
+Trial: 1 stim 17.	Trial 1 answer 1 speaker 1 direction 3
+repeating trial
+Trial: 1 stim 22.	Trial 1 answer 1 speaker 3 direction 1
+repeating trial
+Trial: 1 stim 34.	Trial 1 answer 0 speaker 3 direction 3
+repeating trial
+Trial: 1 stim 1.	Trial 1 answer 1 speaker 1 direction 1
+repeating trial
+Trial: 1 stim 2.	Trial 1 answer 0 speaker 1 direction 1
+repeating trial
+repeating trial
+Trial: 1 stim 34.	Trial 1 answer 1 speaker 3 direction 3
+repeating trial
+Trial: 1 stim 2.	Trial 1 answer 1 speaker 1 direction 1
+repeating trial
+Trial: 1 stim 4.	Trial 1 answer 1 speaker 1 direction 1
+repeating trial
+Trial: 1 stim 12.	Trial 1 answer 1 speaker 3 direction 3
+Trial: 1 stim 13.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 1 stim 19.	Trial 1 answer 1 speaker 1 direction 3
+Trial: 1 stim 28.	Trial 0 answer 1 speaker -1 direction -1
+repeating trial
+Trial: 1 stim 37.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 1 stim 24.	Trial 1 answer 0 speaker 3 direction 1
+repeating trial
+Trial: 1 stim 32.	Trial 1 answer 0 speaker 1 direction 1
+repeating trial
+repeating trial
+Trial: 1 stim 36.	Trial 1 answer 0 speaker 3 direction 3
+repeating trial
+Trial: 1 stim 40.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 1 stim 28.	Trial 0 answer 1 speaker -1 direction -1
+repeating trial
+Trial: 1 stim 24.	Trial 1 answer 1 speaker 3 direction 1
+repeating trial
+Trial: 1 stim 32.	Trial 1 answer 0 speaker 1 direction 1
+repeating trial
+repeating trial
+Trial: 1 stim 36.	Trial 1 answer 0 speaker 3 direction 3
+repeating trial
+Trial: 1 stim 28.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 1 stim 32.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 1 stim 36.	Trial 1 answer 1 speaker 3 direction 3
+Starting experiment section.
+Doing block: 1
+Trial: 1 stim 33.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 2 stim 46.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 3 stim 14.	Trial 1 answer 1 speaker 2 direction 1
+Trial: 4 stim 15.	Trial 1 answer 1 speaker 2 direction 1
+Trial: 5 stim 37.	Trial 1 answer 0 speaker 2 direction 2
+Trial: 6 stim 34.	Trial 1 answer 0 speaker 2 direction 2
+Trial: 7 stim 42.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 8 stim 41.	Trial 0 answer 1 speaker -1 direction -1
+Trial: 9 stim 40.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 10 stim 22.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 11 stim 5.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 12 stim 9.	Trial 1 answer 0 speaker 1 direction 1
+Trial: 13 stim 32.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 14 stim 11.	Trial 1 answer 1 speaker 2 direction 1
+Trial: 15 stim 39.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 16 stim 17.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 17 stim 4.	Trial 1 answer 1 speaker 1 direction 1
+Giving a break with the rest trial.
+Trial: 18 stim 50.	Trial 0 answer 1 speaker -1 direction -1
+Trial: 19 stim 48.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 20 stim 18.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 21 stim 30.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 22 stim 1.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 23 stim 10.	Trial 1 answer 0 speaker 1 direction 1
+Trial: 24 stim 43.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 25 stim 36.	Trial 1 answer 0 speaker 2 direction 2
+Trial: 26 stim 16.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 27 stim 47.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 28 stim 45.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 29 stim 7.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 30 stim 20.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 31 stim 6.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 32 stim 25.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 33 stim 19.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 34 stim 13.	Trial 1 answer 1 speaker 2 direction 1
+Giving a break with the rest trial.
+Trial: 35 stim 31.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 36 stim 28.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 37 stim 44.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 38 stim 21.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 39 stim 23.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 40 stim 38.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 41 stim 26.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 42 stim 27.	Trial 1 answer 0 speaker 1 direction 2
+Trial: 43 stim 49.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 44 stim 2.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 45 stim 29.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 46 stim 12.	Trial 1 answer 1 speaker 2 direction 1
+Trial: 47 stim 8.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 48 stim 35.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 49 stim 3.	Trial 1 answer 0 speaker 1 direction 1
+Trial: 50 stim 24.	Trial 1 answer 1 speaker 1 direction 2
+Block analytics: -------------------------------
+Hit rate: 0.83
+False rate: 0.2
+------------------------------------------------
+02/02/2016 10:20:55
+Doing block: 2. Block count: 1
+Trial: 1 stim 1.	Trial: 2 stim 2.	Trial: 1 stim 19.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 2 stim 21.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 3 stim 8.	Trial 0 answer 1 speaker 1 direction 1
+Trial: 4 stim 2.	Trial 0 answer 1 speaker 1 direction 1
+Trial: 5 stim 3.	Trial 0 answer 1 speaker 1 direction 1
+Trial: 6 stim 9.	Trial 0 answer 0 speaker 1 direction 1
+Trial: 7 stim 33.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 8 stim 45.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 9 stim 42.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 10 stim 34.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 11 stim 1.	Trial 0 answer 1 speaker 1 direction 1
+Trial: 12 stim 37.	Trial 1 answer 0 speaker 2 direction 2
+Trial: 13 stim 11.	Trial 0 answer 0 speaker 2 direction 1
+Trial: 14 stim 41.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 15 stim 24.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 16 stim 12.	Trial 0 answer 0 speaker 2 direction 1
+Trial: 17 stim 17.	Trial 1 answer 1 speaker 1 direction 2
+Giving a break with the rest trial.
+Trial: 18 stim 10.	Trial 0 answer 0 speaker 1 direction 1
+Trial: 19 stim 28.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 20 stim 16.	Trial 1 answer 0 speaker 1 direction 2
+Trial: 21 stim 27.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 22 stim 26.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 23 stim 44.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 24 stim 29.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 25 stim 39.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 26 stim 20.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 27 stim 7.	Trial 0 answer 1 speaker 1 direction 1
+Trial: 28 stim 4.	Trial 0 answer 1 speaker 1 direction 1
+Trial: 29 stim 13.	Trial 0 answer 0 speaker 2 direction 1
+Trial: 30 stim 32.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 31 stim 14.	Trial 0 answer 1 speaker 2 direction 1
+Trial: 32 stim 6.	Trial 0 answer 1 speaker 1 direction 1
+Trial: 33 stim 50.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 34 stim 36.	Trial 1 answer 1 speaker 2 direction 2
+Giving a break with the rest trial.
+Trial: 35 stim 31.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 36 stim 38.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 37 stim 47.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 38 stim 25.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 39 stim 15.	Trial 0 answer 0 speaker 2 direction 1
+Trial: 40 stim 23.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 41 stim 18.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 42 stim 43.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 43 stim 48.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 44 stim 30.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 45 stim 35.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 46 stim 40.	Trial 1 answer 1 speaker 2 direction 2
+Trial: 47 stim 22.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 48 stim 49.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 49 stim 5.	Trial 0 answer 1 speaker 1 direction 1
+Trial: 50 stim 46.	Trial 0 answer 0 speaker -1 direction -1
+Block analytics: -------------------------------
+Hit rate: 0.92
+False rate: 0.36
+------------------------------------------------
+02/02/2016 10:32:57
+Doing block: 3. Block count: 2
+Trial: 1 stim 1.	Trial: 2 stim 2.	Trial: 1 stim 8.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 2 stim 42.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 3 stim 33.	Trial 0 answer 0 speaker 2 direction 2
+Trial: 4 stim 11.	Trial 0 answer 0 speaker 2 direction 1
+Trial: 5 stim 23.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 6 stim 43.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 7 stim 10.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 8 stim 40.	Trial 0 answer 1 speaker 2 direction 2
+Trial: 9 stim 41.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 10 stim 18.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 11 stim 24.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 12 stim 37.	Trial 0 answer 0 speaker 2 direction 2
+Trial: 13 stim 39.	Trial 0 answer 1 speaker 2 direction 2
+Trial: 14 stim 21.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 15 stim 14.	Trial 0 answer 0 speaker 2 direction 1
+Trial: 16 stim 19.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 17 stim 36.	Trial 0 answer 1 speaker 2 direction 2
+Giving a break with the rest trial.
+Trial: 18 stim 26.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 19 stim 31.	Trial 0 answer 0 speaker 2 direction 2
+Trial: 20 stim 20.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 21 stim 50.	Trial 0 answer 1 speaker -1 direction -1
+Trial: 22 stim 30.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 23 stim 44.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 24 stim 5.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 25 stim 4.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 26 stim 3.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 27 stim 27.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 28 stim 34.	Trial 0 answer 1 speaker 2 direction 2
+Trial: 29 stim 12.	Trial 0 answer 0 speaker 2 direction 1
+Trial: 30 stim 47.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 31 stim 48.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 32 stim 13.	Trial 0 answer 0 speaker 2 direction 1
+Trial: 33 stim 17.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 34 stim 29.	Trial 1 answer 1 speaker 1 direction 2
+Giving a break with the rest trial.
+Trial: 35 stim 28.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 36 stim 32.	Trial 0 answer 1 speaker 2 direction 2
+Trial: 37 stim 16.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 38 stim 46.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 39 stim 2.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 40 stim 38.	Trial 0 answer 0 speaker 2 direction 2
+Trial: 41 stim 15.	Trial 0 answer 1 speaker 2 direction 1
+Trial: 42 stim 1.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 43 stim 9.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 44 stim 49.	Trial 0 answer 0 speaker -1 direction -1
+Trial: 45 stim 22.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 46 stim 25.	Trial 1 answer 1 speaker 1 direction 2
+Trial: 47 stim 7.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 48 stim 6.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 49 stim 35.	Trial 0 answer 1 speaker 2 direction 2
+Trial: 50 stim 45.	Trial 0 answer 0 speaker -1 direction -1
+Block analytics: -------------------------------
+Hit rate: 1
+False rate: 0.32
+------------------------------------------------
+
+All done!
+02/02/2016 10:43:36

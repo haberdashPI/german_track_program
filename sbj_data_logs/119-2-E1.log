@@ -1,0 +1,163 @@
+Scenario - 
+Logfile written - 03/01/2016 11:10:42
+
+Subject	Trial	Event Type	Code	block_type(str)	block_idx(num)	trial_order(num)	trial_file(num)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+119-2	1	Response	s					15492	14659	1
+119-2	3	Response	s					20132	4133	1
+119-2	5	Response	s					24852	4520	1
+119-2	7	Sound	train;3;1;32	train	3	1	32	25890	0	1			0		other	0
+119-2	8	Response	n					112450	15620	1
+119-2	9	Response	e					119170	6674	1
+119-2	11	Sound	train;3;2;5	train	3	2	5	120185	0	1			0		other	0
+119-2	12	Response	y					216048	3055	1
+119-2	13	Response	e					217648	1488	1
+119-2	15	Sound	train;3;3;22	train	3	3	22	218572	0	1			0		other	0
+119-2	16	Response	y					286447	2956	1
+119-2	17	Response	e					287487	996	1
+119-2	19	Sound	train;3;4;10	train	3	4	10	288564	0	1			0		other	0
+119-2	20	Response	y					376766	3277	1
+119-2	21	Response	e					378526	1704	1
+119-2	23	Sound	train;3;5;2	train	3	5	2	379547	0	1			0		other	0
+119-2	24	Response	y					472124	1638	1
+119-2	25	Response	e					474524	2371	1
+119-2	27	Sound	train;3;6;37	train	3	6	37	475542	0	1			0		other	0
+119-2	28	Response	y					570843	4359	1
+119-2	29	Response	e					571882	899	1
+119-2	31	Sound	train;3;7;38	train	3	7	38	572837	0	1			0		other	0
+119-2	32	Response	y					661801	3153	1
+119-2	33	Response	e					672441	10460	1
+119-2	35	Sound	train;3;8;25	train	3	8	25	673330	0	1			0		other	0
+119-2	36	Response	y					744040	5394	1
+119-2	37	Response	e					759639	15494	1
+119-2	39	Sound	train;3;9;50	train	3	9	50	760720	0	1			0		other	0
+119-2	40	Response	n					846838	2029	1
+119-2	41	Response	e					848278	1302	1
+119-2	43	Sound	train;3;10;40	train	3	10	40	849204	0	1			0		other	0
+119-2	44	Response	y					945236	3263	1
+119-2	45	Response	e					946596	1290	1
+119-2	47	Sound	train;3;11;28	train	3	11	28	947487	0	1			0		other	0
+119-2	48	Response	n					1022835	5864	1
+119-2	49	Response	e					1024194	1223	1
+119-2	51	Sound	train;3;12;4	train	3	12	4	1025182	0	1			0		other	0
+119-2	52	Response	y					1120833	4031	1
+119-2	53	Response	e					1121153	185	1
+119-2	55	Sound	train;3;13;27	train	3	13	27	1122069	0	1			0		other	0
+119-2	56	Response	n					1209951	13651	1
+119-2	57	Response	e					1218831	8699	1
+119-2	59	Sound	train;3;14;16	train	3	14	16	1219774	0	1			0		other	0
+119-2	60	Response	y					1304990	2360	1
+119-2	61	Response	e					1306029	899	1
+119-2	63	Sound	train;3;15;11	train	3	15	11	1306966	0	1			0		other	0
+119-2	64	Response	y					1390989	2528	1
+119-2	65	Response	e					1391948	821	1
+119-2	67	Sound	train;3;16;17	train	3	16	17	1392851	0	1			0		other	0
+119-2	68	Response	n					1480267	5309	1
+119-2	69	Response	e					1480906	615	1
+119-2	71	Sound	train;3;17;44	train	3	17	44	1481837	0	1			0		other	0
+119-2	72	Response	n					1572425	5469	1
+119-2	73	Response	e					1573145	690	1
+119-2	75	Response	s					2191296	617840	1
+119-2	77	Sound	train;3;18;36	train	3	18	36	2192267	0	1			0		other	0
+119-2	78	Response	n					2290013	2078	1
+119-2	79	Response	e					2292093	1991	1
+119-2	81	Sound	train;3;19;21	train	3	19	21	2293050	0	1			0		other	0
+119-2	82	Response	y					2357372	939	1
+119-2	83	Response	e					2358892	1459	1
+119-2	85	Sound	train;3;20;39	train	3	20	39	2359743	0	1			0		other	0
+119-2	86	Response	y					2452810	1546	1
+119-2	87	Response	e					2453930	999	1
+119-2	89	Sound	train;3;21;20	train	3	21	20	2454950	0	1			0		other	0
+119-2	90	Response	y					2522889	2294	1
+119-2	91	Response	e					2524569	1640	1
+119-2	93	Sound	train;3;22;14	train	3	22	14	2525529	0	1			0		other	0
+119-2	94	Response	y					2608887	1971	1
+119-2	95	Response	e					2610327	1401	1
+119-2	97	Sound	train;3;23;31	train	3	23	31	2611325	0	1			0		other	0
+119-2	98	Response	n					2684086	1828	1
+119-2	99	Response	e					2684966	708	1
+119-2	101	Sound	train;3;24;1	train	3	24	1	2686016	0	1			0		other	0
+119-2	102	Response	y					2783604	2016	1
+119-2	104	Response	e					2784244	0	1
+119-2	105	Sound	train;3;25;48	train	3	25	48	2785306	0	1			0		other	0
+119-2	106	Response	y					2868563	1811	1
+119-2	107	Response	e					2869762	1188	1
+119-2	109	Sound	train;3;26;33	train	3	26	33	2870804	0	1			0		other	0
+119-2	110	Response	y					2949121	5204	1
+119-2	111	Response	e					2950081	831	1
+119-2	113	Sound	train;3;27;42	train	3	27	42	2951194	0	1			0		other	0
+119-2	114	Response	n					3044720	2472	1
+119-2	115	Response	e					3046159	1412	1
+119-2	117	Sound	train;3;28;30	train	3	28	30	3047081	0	1			0		other	0
+119-2	118	Response	y					3117358	1446	1
+119-2	119	Response	e					3120479	3067	1
+119-2	121	Sound	train;3;29;49	train	3	29	49	3121472	0	1			0		other	0
+119-2	122	Response	n					3221677	18767	1
+119-2	123	Response	e					3223517	1775	1
+119-2	125	Sound	train;3;30;24	train	3	30	24	3224461	0	1			0		other	0
+119-2	126	Response	y					3303435	3028	1
+119-2	127	Response	e					3304635	1062	1
+119-2	129	Sound	train;3;31;8	train	3	31	8	3305652	0	1			0		other	0
+119-2	130	Response	y					3393034	2296	1
+119-2	131	Response	e					3394793	1722	1
+119-2	133	Sound	train;3;32;47	train	3	32	47	3395747	0	1			0		other	0
+119-2	134	Response	n					3482472	2237	1
+119-2	135	Response	e					3483432	864	1
+119-2	137	Sound	train;3;33;43	train	3	33	43	3484436	0	1			0		other	0
+119-2	138	Response	n					3574631	5065	1
+119-2	139	Response	e					3575190	457	1
+119-2	141	Sound	train;3;34;12	train	3	34	12	3576132	0	1			0		other	0
+119-2	142	Response	y					3662869	2305	1
+119-2	143	Response	e					3663589	692	1
+119-2	145	Response	s					4299178	635281	1
+119-2	147	Sound	train;3;35;35	train	3	35	35	4300050	0	1			0		other	0
+119-2	148	Response	y					4389737	14694	1
+119-2	149	Response	e					4390776	900	1
+119-2	151	Sound	train;3;36;23	train	3	36	23	4391743	0	1			0		other	0
+119-2	152	Response	y					4488535	22328	1
+119-2	153	Response	e					4489175	468	1
+119-2	155	Sound	train;3;37;6	train	3	37	6	4490141	0	1			0		other	0
+119-2	156	Response	y					4578053	2682	1
+119-2	157	Response	e					4579413	1209	1
+119-2	159	Sound	train;3;38;13	train	3	38	13	4580421	0	1			0		other	0
+119-2	160	Response	n					4675652	13784	1
+119-2	161	Response	e					4676372	671	1
+119-2	163	Sound	train;3;39;19	train	3	39	19	4677406	0	1			0		other	0
+119-2	164	Response	y					4755890	691	1
+119-2	165	Response	e					4756770	737	1
+119-2	167	Sound	train;3;40;26	train	3	40	26	4757706	0	1			0		other	0
+119-2	168	Response	y					4825089	1225	1
+119-2	169	Response	e					4825888	691	2
+119-2	171	Sound	train;3;41;15	train	3	41	15	4826994	0	1			0		other	0
+119-2	172	Response	y					4914287	3259	1
+119-2	173	Response	e					4915647	1286	1
+119-2	175	Sound	train;3;42;9	train	3	42	9	4916691	0	1			0		other	0
+119-2	176	Response	n					5005726	4034	1
+119-2	177	Response	e					5006606	747	1
+119-2	179	Sound	train;3;43;46	train	3	43	46	5007677	0	1			0		other	0
+119-2	180	Response	n					5091325	2135	1
+119-2	181	Response	e					5091804	448	1
+119-2	183	Sound	train;3;44;45	train	3	44	45	5092772	0	1			0		other	0
+119-2	184	Response	n					5184443	6756	1
+119-2	185	Response	e					5186364	1844	1
+119-2	187	Sound	train;3;45;29	train	3	45	29	5187465	0	1			0		other	0
+119-2	188	Response	y					5258521	1336	1
+119-2	189	Response	e					5259161	476	1
+119-2	191	Sound	train;3;46;18	train	3	46	18	5260154	0	1			0		other	0
+119-2	192	Response	y					5341880	2197	1
+119-2	193	Response	e					5343000	984	1
+119-2	195	Sound	train;3;47;3	train	3	47	3	5343941	0	1			0		other	0
+119-2	196	Response	y					5430518	671	1
+119-2	197	Response	e					5432278	1598	1
+119-2	199	Sound	train;3;48;7	train	3	48	7	5433228	0	1			0		other	0
+119-2	200	Response	y					5525957	1779	1
+119-2	201	Response	e					5527397	1386	1
+119-2	203	Sound	train;3;49;41	train	3	49	41	5528419	0	1			0		other	0
+119-2	204	Response	n					5615795	2120	1
+119-2	205	Response	e					5617315	1474	1
+119-2	207	Sound	train;3;50;34	train	3	50	34	5618217	0	1			0		other	0
+119-2	208	Response	y					5699634	8295	1
+119-2	209	Response	e					5700514	841	1
+119-2	211	Response	s					5877631	176459	1
+119-2	213	Sound	feature;2;1;42	feature	2	1	42	5878590	0	1			0		other	0
+119-2	213	Quit						5887193	8603

@@ -1,0 +1,169 @@
+Scenario - 
+Logfile written - 02/03/2016 14:52:27
+
+Subject	Trial	Event Type	Code	block_type(str)	block_idx(num)	trial_order(num)	trial_file(num)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+46-2	1	Response	s					18706	18041	1
+46-2	3	Response	s					45106	25941	1
+46-2	5	Response	s					63265	17934	1
+46-2	7	Sound	train;3;1;1	train	3	1	1	64196	0	1			0		other	0
+46-2	8	Response	s					157264	10269	1
+46-2	10	Sound	train;3;2;2	train	3	2	2	158185	0	1			0		other	0
+46-2	11	Response	s					248143	7817	1
+46-2	13	Sound	object;3;1;30	object	3	1	30	248971	0	1			0		other	0
+46-2	14	Response	y					320222	2398	1
+46-2	15	Response	e					323421	3097	1
+46-2	17	Sound	object;3;2;12	object	3	2	12	324375	0	1			0		other	0
+46-2	18	Response	y					413180	4358	1
+46-2	19	Response	e					417260	3938	1
+46-2	21	Sound	object;3;3;39	object	3	3	39	418159	0	1			0		other	0
+46-2	22	Response	n					512939	3286	1
+46-2	23	Response	e					515019	2033	1
+46-2	25	Sound	object;3;4;8	object	3	4	8	515949	0	1			0		other	0
+46-2	26	Response	y					602858	1874	1
+46-2	27	Response	e					604537	1553	1
+46-2	29	Sound	object;3;5;35	object	3	5	35	605533	0	1			0		other	0
+46-2	30	Response	y					682777	2295	1
+46-2	31	Response	e					684936	2121	1
+46-2	33	Sound	object;3;6;1	object	3	6	1	685932	0	1			0		other	0
+46-2	34	Response	y					783495	1849	1
+46-2	35	Response	e					785175	1529	1
+46-2	37	Sound	object;3;7;10	object	3	7	10	786214	0	1			0		other	0
+46-2	38	Response	y					873894	2750	1
+46-2	39	Response	e					876213	2236	1
+46-2	41	Sound	object;3;8;9	object	3	8	9	877214	0	1			0		other	0
+46-2	42	Response	y					965493	3185	1
+46-2	43	Response	e					967332	1691	1
+46-2	45	Sound	object;3;9;11	object	3	9	11	968392	0	1			0		other	0
+46-2	46	Response	n					1055331	5525	1
+46-2	47	Response	e					1057731	2259	1
+46-2	49	Sound	object;3;10;31	object	3	10	31	1058694	0	1			0		other	0
+46-2	50	Response	y					1130530	893	1
+46-2	51	Response	e					1132610	1973	1
+46-2	53	Sound	object;3;11;25	object	3	11	25	1133486	0	1			0		other	0
+46-2	54	Response	y					1202289	3487	1
+46-2	55	Response	e					1204049	1580	1
+46-2	57	Sound	object;3;12;32	object	3	12	32	1205080	0	1			0		other	0
+46-2	58	Response	y					1277968	2001	1
+46-2	59	Response	e					1280288	2155	1
+46-2	61	Sound	object;3;13;46	object	3	13	46	1281161	0	1			0		other	0
+46-2	62	Response	y					1366207	3576	1
+46-2	63	Response	n					1372046	5748	1
+46-2	64	Response	e					1375086	2955	1
+46-2	66	Sound	object;3;14;37	object	3	14	37	1375960	0	1			0		other	0
+46-2	67	Response	n					1470765	3803	1
+46-2	68	Response	e					1473085	2290	1
+46-2	70	Sound	object;3;15;14	object	3	15	14	1473952	0	1			0		other	0
+46-2	71	Response	y					1557484	2024	1
+46-2	72	Response	e					1559404	1778	1
+46-2	74	Sound	object;3;16;38	object	3	16	38	1560342	0	1			0		other	0
+46-2	75	Response	y					1649723	3432	1
+46-2	76	Response	e					1652362	2571	1
+46-2	78	Sound	object;3;17;23	object	3	17	23	1653229	0	1			0		other	0
+46-2	79	Response	y					1729722	1934	1
+46-2	80	Response	e					1731641	1853	1
+46-2	82	Response	s					2353553	621598	1
+46-2	84	Sound	object;3;18;36	object	3	18	36	2354460	0	2			0		other	0
+46-2	85	Response	n					2456751	6648	1
+46-2	86	Response	e					2462591	5655	1
+46-2	88	Sound	object;3;19;24	object	3	19	24	2463652	0	1			0		other	0
+46-2	89	Response	y					2540590	989	1
+46-2	90	Response	e					2543470	2703	1
+46-2	92	Sound	object;3;20;19	object	3	20	19	2544451	0	1			0		other	0
+46-2	93	Response	y					2622909	644	1
+46-2	94	Response	e					2625468	2536	1
+46-2	96	Sound	object;3;21;28	object	3	21	28	2626425	0	1			0		other	0
+46-2	97	Response	y					2697701	1771	8
+46-2	98	Response	e					2699387	1457	1
+46-2	100	Sound	object;3;22;42	object	3	22	42	2700327	0	1			0		other	0
+46-2	101	Response	n					2793866	2605	1
+46-2	102	Response	e					2795866	1938	1
+46-2	104	Sound	object;3;23;4	object	3	23	4	2796816	0	1			0		other	0
+46-2	105	Response	y					2891385	2960	1
+46-2	106	Response	e					2893384	1959	1
+46-2	108	Sound	object;3;24;6	object	3	24	6	2894403	0	1			0		other	0
+46-2	109	Response	y					2981144	1555	1
+46-2	110	Response	e					2983143	1887	1
+46-2	112	Sound	object;3;25;13	object	3	25	13	2984206	0	1			0		other	0
+46-2	113	Response	n					3067862	2108	1
+46-2	114	Response	e					3069782	1862	1
+46-2	116	Sound	object;3;26;21	object	3	26	21	3070795	0	1			0		other	0
+46-2	117	Response	y					3135061	976	1
+46-2	118	Response	e					3136501	1416	1
+46-2	120	Sound	object;3;27;17	object	3	27	17	3137483	0	1			0		other	0
+46-2	121	Response	y					3221380	1797	1
+46-2	122	Response	e					3223300	1884	1
+46-2	124	Sound	object;3;28;49	object	3	28	49	3224377	0	1			0		other	0
+46-2	125	Response	n					3308819	2905	1
+46-2	126	Response	e					3310659	1745	1
+46-2	128	Sound	object;3;29;45	object	3	29	45	3311769	0	1			0		other	0
+46-2	129	Response	n					3399218	2640	1
+46-2	130	Response	e					3401777	2532	1
+46-2	132	Sound	object;3;30;33	object	3	30	33	3402758	0	1			0		other	0
+46-2	133	Response	y					3484176	8266	1
+46-2	134	Response	n					3488336	4093	1
+46-2	135	Response	e					3490736	2326	1
+46-2	137	Sound	object;3;31;34	object	3	31	34	3491747	0	1			0		other	0
+46-2	138	Response	n					3568015	3107	1
+46-2	139	Response	e					3571055	2981	1
+46-2	141	Sound	object;3;32;3	object	3	32	3	3572041	0	1			0		other	0
+46-2	142	Response	y					3658174	269	1
+46-2	143	Response	e					3660814	2575	1
+46-2	145	Sound	object;3;33;5	object	3	33	5	3661831	0	1			0		other	0
+46-2	146	Response	y					3756173	1604	1
+46-2	147	Response	e					3758172	1936	1
+46-2	149	Sound	object;3;34;41	object	3	34	41	3759120	0	1			0		other	0
+46-2	150	Response	n					3847371	3137	1
+46-2	151	Response	e					3849531	2131	1
+46-2	153	Response	s					4471282	621549	1
+46-2	155	Sound	object;3;35;43	object	3	35	43	4472250	0	1			0		other	0
+46-2	156	Response	n					4563361	5979	1
+46-2	157	Response	e					4565361	1813	1
+46-2	159	Sound	object;3;36;40	object	3	36	40	4566342	0	1			0		other	0
+46-2	160	Response	y					4666000	6954	1
+46-2	161	Response	e					4671279	5233	1
+46-2	163	Sound	object;3;37;22	object	3	37	22	4672229	0	1			0		other	0
+46-2	164	Response	y					4739198	2154	1
+46-2	165	Response	e					4741198	1821	1
+46-2	167	Sound	object;3;38;48	object	3	38	48	4742120	0	1			0		other	0
+46-2	168	Response	n					4825837	2295	1
+46-2	169	Response	e					4827837	1962	1
+46-2	171	Sound	object;3;39;18	object	3	39	18	4828705	0	1			0		other	0
+46-2	172	Response	y					4910076	1870	1
+46-2	173	Response	e					4912156	1950	1
+46-2	175	Sound	object;3;40;50	object	3	40	50	4913104	0	1			0		other	0
+46-2	176	Response	n					4999595	2391	1
+46-2	177	Response	e					5003354	3650	1
+46-2	179	Sound	object;3;41;7	object	3	41	7	5004294	0	1			0		other	0
+46-2	180	Response	y					5097513	2324	1
+46-2	181	Response	e					5099273	1739	1
+46-2	183	Sound	object;3;42;2	object	3	42	2	5100282	0	1			0		other	0
+46-2	184	Response	y					5193112	1747	1
+46-2	185	Response	e					5195032	1833	1
+46-2	187	Sound	object;3;43;44	object	3	43	44	5196171	0	1			0		other	0
+46-2	188	Response	n					5285031	3835	1
+46-2	189	Response	e					5286550	1354	1
+46-2	191	Sound	object;3;44;15	object	3	44	15	5287675	0	1			0		other	0
+46-2	192	Response	n					5373189	1495	1
+46-2	193	Response	e					5375029	1668	1
+46-2	195	Sound	object;3;45;20	object	3	45	20	5376161	0	1			0		other	0
+46-2	196	Response	y					5443828	1969	1
+46-2	197	Response	e					5445668	1809	1
+46-2	199	Sound	object;3;46;27	object	3	46	27	5446660	0	1			0		other	0
+46-2	200	Response	y					5521827	970	1
+46-2	201	Response	e					5523187	1330	1
+46-2	203	Sound	object;3;47;47	object	3	47	47	5524343	0	1			0		other	0
+46-2	204	Response	n					5612146	3291	1
+46-2	205	Response	e					5613746	1558	1
+46-2	207	Sound	object;3;48;16	object	3	48	16	5614839	0	1			0		other	0
+46-2	208	Response	y					5699665	1979	1
+46-2	209	Response	e					5701264	1578	1
+46-2	211	Sound	object;3;49;26	object	3	49	26	5702226	0	1			0		other	0
+46-2	212	Response	y					5770704	2354	1
+46-2	213	Response	e					5772463	1613	1
+46-2	215	Sound	object;3;50;29	object	3	50	29	5773418	0	1			0		other	0
+46-2	216	Response	y					5847263	4081	1
+46-2	217	Response	e					5855822	8474	1
+46-2	219	Response	s					5884862	28514	1
+46-2	221	Sound	feature;2;1;1	feature	2	1	1	5886009	0	1			0		other	0
+46-2	221	Quit						5905834	19825

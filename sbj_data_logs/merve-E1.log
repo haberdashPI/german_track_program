@@ -1,0 +1,12 @@
+Scenario - 
+Logfile written - 02/01/2016 09:35:38
+
+Subject	Trial	Event Type	Code	block_type(str)	block_idx(num)	trial_order(num)	trial_file(num)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+merve	1	Response	s					17747	17100	1
+merve	3	Response	s					23987	5822	1
+merve	5	Response	s					32307	8142	1
+merve	7	Response	s					63346	30848	1
+merve	9	Response	s					71346	7682	1
+merve	11	Sound	train;1;1;2	train	1	1	2	72458	0	1			0		other	0
+merve	11	Quit						82866	10408

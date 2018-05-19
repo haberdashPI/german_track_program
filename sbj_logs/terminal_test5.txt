@@ -1,0 +1,24 @@
+Things are working, I am starting the experiment.
+Writing to: C:\Users\LCAP\Documents\David Little\2018-01-17_EEG_attention_decoding\
+Subject id: test5
+Subject group: 1
+03/05/2018 08:55:28
+I am starting training.
+03/05/2018 08:55:31
+Doing block: 1. Block count: 0
+Trial: 1 stim 10.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 2 stim 2.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 3 stim 8.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 4 stim 3.	Trial 1 answer 1 speaker 1 direction 1
+Giving a break with the rest trial.
+Trial: 5 stim 4.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 6 stim 9.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 7 stim 6.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 8 stim 1.	Trial 1 answer 1 speaker 1 direction 1
+Giving a break with the rest trial.
+Trial: 9 stim 7.	Trial 1 answer 1 speaker 1 direction 1
+Trial: 10 stim 5.	Trial 1 answer 1 speaker 1 direction 1
+Block analytics: -------------------------------
+Hit rate: 1
+False rate: 0
+------------------------------------------------
