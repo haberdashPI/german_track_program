@@ -506,6 +506,8 @@ begin
 	end;
 end;
 
+stop_recording.present();
+
 print_termfile_line("\nAll done!");
 print_termfile_line(date_time());
 message_showing(messages[msg_done]);
