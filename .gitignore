@@ -2,5 +2,5 @@ stim_scratch/
 *.swp
 *.swo
 *~
-
+sbj_data_logs/test-*.log
 
